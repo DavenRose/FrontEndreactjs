@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    font-size: 28px;
+    background-image: url(aesthetic.gif);
+    background-size: cover;
+    font-style: inherit;
+    font-family: monospace;
+}
+
+div {
+    text-align: center;
+    max-width: 100%;
+    min-width: 140px;
+    margin: auto;
+    width: 40%;
+    margin: 100px auto;
+}
+
+button {
+    padding: 25px;
+    border-radius: 55%;
+    border-color: rgb(80, 53, 78);
+    border-style: double;
+}
+
+h2 {
+    background-color: rgb(240, 167, 191);
+}
